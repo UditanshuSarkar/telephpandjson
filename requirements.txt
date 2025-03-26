@@ -2,3 +2,5 @@ flask
 gunicorn
 python-telegram-bot
 requests
+app
+telebot
